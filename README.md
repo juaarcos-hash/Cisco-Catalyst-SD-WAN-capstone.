@@ -1,7 +1,5 @@
-# Cisco-Catalyst-SD-WAN.
-Guía metodológica de implementación Cisco Catalyst SD-WAN con automatización Python y validación en Cisco DevNet Sandbox.
-
 # Cisco Catalyst SD-WAN — Guía Metodológica de Implementación
+Guía metodológica de implementación Cisco Catalyst SD-WAN con automatización Python y validación en Cisco DevNet Sandbox.
 
 **Proyecto Capstone | Ingeniería en Conectividad y Redes**
 
